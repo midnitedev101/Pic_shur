@@ -1,1 +1,0 @@
-The folder contents here contains assets for custom emails.
